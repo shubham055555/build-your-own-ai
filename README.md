@@ -18,3 +18,5 @@ Anyone can contribute by adding new project guides.
 2. Add a new markdown file in the appropriate category folder
 3. Submit a Pull Request
 
+Contributions are welcome from everyone — beginners and experts alike.
+
