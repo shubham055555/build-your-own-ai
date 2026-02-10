@@ -20,3 +20,8 @@ Anyone can contribute by adding new project guides.
 
 Contributions are welcome from everyone — beginners and experts alike.
 
+## Contributors
+
+Thanks to all the amazing contributors ❤️
+
+
