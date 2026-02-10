@@ -12,3 +12,9 @@ Anyone can contribute by adding new project guides.
 - Deep Learning
 - Generative AI
 
+## How to Contribute
+
+1. Fork this repository
+2. Add a new markdown file in the appropriate category folder
+3. Submit a Pull Request
+
